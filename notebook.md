@@ -13,6 +13,10 @@ Lab notebook
 # Catatan
 ## Laporan bulan Maret 2018
 ### Entry 1: 02 Maret 2018
+
+![Ilustrasi kontaminasi](http://www.maxpixel.net/static/photo/1x/Pollution-Ocean-Degradation-Trash-Mar-Environment-1603644.jpg)
+`Gambar dipinjam dari [Maxpixel, CC-0](https://www.maxpixel.net/static/photo/1x/Pollution-Ocean-Degradation-Trash-Mar-Environment-1603644.jpg)` 
+
 Pada awal tahun kedua ini, kami mengevaluasi berbagai hal yang telah dihasilkan di tahun pertama. Di tahun pertama, kami telah menghasilkan:
 - 70 titik data kualitas air tanah di beberapa wilayah di Kota Bandung, yang umumnya terletak di sekitar bantaran S. Cikapundung.
 - Dari data tersebut, dapat ditandai beberapa fenomena:
@@ -25,9 +29,9 @@ Kami telah membangun repositori yang nantinya akan terbuka untuk publik. Reposit
 - Github/dasaptaerwin
 - Google Drive/dasaptaerwin3
 
-
-
 ## Laporan bulan April 2018
+![Ilustrasi storage](http://www.maxpixel.net/static/photo/1x/Bicycle-Storage-House-Shelf-Books-Shelves-Home-1209845.jpg)
+`Gambar dipinjam dari [Maxpixel, CC-0](https://www.maxpixel.net/static/photo/1x/Bicycle-Storage-House-Shelf-Books-Shelves-Home-1209845.jpg)` 
 
 Di bulan Maret ini kami melakukan konsolidasi untuk memulai riset tahun kedua. Dalam kegiatan ini kami melakukan:
 - evaluasi [implementasi riset tahun lalu](https://osf.io/tby9f/wiki/home/),
