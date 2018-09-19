@@ -12,6 +12,7 @@ Lab notebook
 
 # Catatan
 ## Laporan bulan Maret 2018
+### Entry 1: 02 Maret 2018
 Pada awal tahun kedua ini, kami mengevaluasi berbagai hal yang telah dihasilkan di tahun pertama. Di tahun pertama, kami telah menghasilkan:
 - 70 titik data kualitas air tanah di beberapa wilayah di Kota Bandung, yang umumnya terletak di sekitar bantaran S. Cikapundung.
 - Dari data tersebut, dapat ditandai beberapa fenomena:
@@ -19,7 +20,14 @@ Pada awal tahun kedua ini, kami mengevaluasi berbagai hal yang telah dihasilkan 
     - telah terjadi pencemaran domestik di kawasan perkotaan, ditandai dengan meningkatnya nilai TDS (*total dissolved solids*) dua hingga tiga kali lipat antara kawasan hulu, dengan kawasan hilir. Pencemaran domestik juga ditandai dengan meningkatnya populasi bakteri E.coli hingga dua kali lipat. Sementara itu, pemukiman terus meluas ke arah hulu, sejalan dengan perkembangan pariwisata di Kawasan Kota Bandung dan Kab. Bandung Barat.
     - yang menarik, dari pengamatan harian di dapatkan adanya peningkatan TDS dan kandungan nitrat. Keduanya menunjukkan pola yang meningkat di hari libur dan akhir minggu. Kondisi ini bahkan terlihat di bagian utara Bandung, kawasan Pondok Hijau, Katumiri dan sekitarnya. Yang mana hal ini mungkin dapat dikaitkan dengan perkembangan kawasan wisata yang bermunculan di kawasan tersebut.
 
-# Laporan bulan April 2018
+### Entry 2: 08 Maret 2018
+Kami telah membangun repositori yang nantinya akan terbuka untuk publik. Repositori yang digunakan adalah menggunakan layanan dari [OSF (Open Science Framework)](osf.io) yang bermarkas di Virginia, AS. Layanan ini merupakan salah satu produk dari [Center for Open Science](cos.io). Pola pengelolaan riset dan data merujuk kepada [ITB RDMP (Research Data Management Plan)](). Repositori ini merupakan sentral repositori yang menaungi beberapa layanan yang kami gunakan, yakni:
+- Github/dasaptaerwin
+- Google Drive/dasaptaerwin3
+
+
+
+## Laporan bulan April 2018
 
 Di bulan Maret ini kami melakukan konsolidasi untuk memulai riset tahun kedua. Dalam kegiatan ini kami melakukan:
 - evaluasi [implementasi riset tahun lalu](https://osf.io/tby9f/wiki/home/),
@@ -63,7 +71,7 @@ Di sini, fitur seleksi jurnal dalam DOAJ kurang rinci, ini merupakan kekurangann
 
 
 # Laporan bulan Mei 2018
-...
+Kami mulai me 
 
 
 # Laporan bulan Juni 2018
