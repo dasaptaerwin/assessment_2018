@@ -99,13 +99,13 @@ Kami telah selesai menyusun daftar pertanyaan yang akan diajukan kepada responde
 (laporan ini telah dimuat di blog riset kami, [tautan](xxx))
 
 ### Entry 2: 30 Juni 2018
-Kami telah selesai menyusun Formulir Etik yang menjadi dasar bagi kami untuk dapat mempublikasikan hasil interview.
+Kami telah selesai menyusun [Formulir Etik](https://osf.io/tby9f/) yang menjadi dasar bagi kami untuk dapat mempublikasikan hasil interview. Kami sangat asing dengan pengisian formulir ini, sehingga perlu melakukan komunikasi dengan beberapa narasumber.
 
 (laporan ini telah dimuat di blog riset kami, [tautan](xxx))
 
 ## CATATAN BULAN JULI 2018
 ### Entry 1: 4 Juli 2018
-Kami telah selesai melakukan interview terhadap 15 responden terpilih. Interview dilakukan secara terpisah dalam 15 kali sesi interview. Selain itu, kami juga melakukan kunjungan ke rumah responden untuk mendokumentasikan kondisi sumber air dan sanitasinya.
+Kami telah selesai melakukan interview terhadap 15 responden terpilih. Interview dilakukan secara terpisah dalam 15 kali sesi interview. Selain itu, kami juga melakukan kunjungan ke rumah responden untuk mendokumentasikan kondisi sumber air dan sanitasinya. Mayoritas dari responded menggunakan air tanah dengan sumur *jet pump* untuk memenuhi kebutuhan airnya. Sebagian memiliki sumber air ganda, air sumur dan air PDAM (air mengalir hanya 5 jam maksimum setiap harinya).
 
 (laporan ini telah dimuat di blog riset kami, [tautan](xxx))
 
