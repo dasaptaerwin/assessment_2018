@@ -119,8 +119,10 @@ Kami telah selesai membuat transkrip dari seluruh interview yang kami lakukan. S
 Kami telah selesai mereformat data agar dapat dibaca oleh [NVIVO](https://www.qsrinternational.com/nvivo/nvivo-products). NVIVO adalah piranti lunak (berbayar) yang kami gunakan untuk mengolah dan menginterpretasi data interview. Terkait dengan riset kualitatif dan penggunaan NVIVO dalam riset kualitatif, kami telah berhasil menyusun modul dan melaksanakan pelatihan singkat dua hari tentang ini ([tautan](xxx)).  
 
 ### Entry 3: 27 Agustus 2018
-Kami akan melaksanakan pelatihan singkat dua hari dengan judul "Riset kualitatif dan penggunaan NVIVO" yang akan diselenggarakan di Hotel Sawunggaling ITB tanggal 27-28 Agustus 2018.
+Kami akan melaksanakan pelatihan singkat dua hari dengan judul "Riset kualitatif dan penggunaan NVIVO" yang akan diselenggarakan di Hotel Sawunggaling ITB tanggal 27-28 Agustus 2018 dan di Sekolah Bisnis dan Manajemen ITB pada tanggal 12 Oktober 2018.
 
 ## CATATAN BULAN SEPTEMBER 2018
 ### Entry 1: 1 September 2018
-Kami sedang melakukan proses `coding` atau penandaan, transkrip hasil interview agar dapat dianalisis dan diinterpretasi. Proses `coding` pada dasarnya adalah tahapan yang harus dilakukan agar NVIVO dapat mengenali bagian mana dari teks transkrip yang terkait dengan suatu tema pembicaraan atau pertanyaan.
+Kami sedang melakukan proses `coding` atau penandaan, transkrip hasil interview agar dapat dianalisis dan diinterpretasi. Proses `coding` pada dasarnya adalah tahapan yang harus dilakukan agar NVIVO dapat mengenali bagian mana dari teks transkrip yang terkait dengan suatu tema pembicaraan atau pertanyaan ([tautan](http://scalar.usc.edu/works/using-nvivo-an-unofficial-and-unauthorized-primer/coding-in-nvivo), [tautan](https://latrobe.libguides.com/NVivo/coding)). 
+
+Proses `coding` ini bersifat subyektif dan perlu pelatihan serta nalar tentang alur pemikiran riset. Untuk itu pada `coding` tahap pertama, akan menghasilkan banyak sekali `node` (titik penanda `coding`). Selanjutnya pada seluruh `node` akan dilakukan pengelompokkan, sehingga pada akhirnya akan didapatkan maksimum lima `node` besar yang terdiri dari beberapa `sub node`.
