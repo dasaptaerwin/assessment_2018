@@ -24,10 +24,14 @@ Pada awal tahun kedua ini, kami mengevaluasi berbagai hal yang telah dihasilkan 
     - telah terjadi pencemaran domestik di kawasan perkotaan, ditandai dengan meningkatnya nilai TDS (*total dissolved solids*) dua hingga tiga kali lipat antara kawasan hulu, dengan kawasan hilir. Pencemaran domestik juga ditandai dengan meningkatnya populasi bakteri E.coli hingga dua kali lipat. Sementara itu, pemukiman terus meluas ke arah hulu, sejalan dengan perkembangan pariwisata di Kawasan Kota Bandung dan Kab. Bandung Barat.
     - yang menarik, dari pengamatan harian di dapatkan adanya peningkatan TDS dan kandungan nitrat. Keduanya menunjukkan pola yang meningkat di hari libur dan akhir minggu. Kondisi ini bahkan terlihat di bagian utara Bandung, kawasan Pondok Hijau, Katumiri dan sekitarnya. Yang mana hal ini mungkin dapat dikaitkan dengan perkembangan kawasan wisata yang bermunculan di kawasan tersebut.
 
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung/riset-dikti-2018-rekapitulasi-tahun-kesatu-6f27d9a99f3a))
+
 ### Entry 2: 08 Maret 2018
-Kami telah membangun repositori yang nantinya akan terbuka untuk publik. Repositori yang digunakan adalah menggunakan layanan dari [OSF (Open Science Framework)](osf.io) yang bermarkas di Virginia, AS. Layanan ini merupakan salah satu produk dari [Center for Open Science](cos.io). Pola pengelolaan riset dan data merujuk kepada [ITB RDMP (Research Data Management Plan)](). Repositori ini merupakan sentral repositori yang menaungi beberapa layanan yang kami gunakan, yakni:
+Kami telah membangun repositori yang nantinya akan terbuka untuk publik. Repositori yang digunakan adalah menggunakan layanan dari [OSF (Open Science Framework)](osf.io) yang bermarkas di Virginia, AS. Layanan ini merupakan salah satu produk dari [Center for Open Science](cos.io). Pola pengelolaan riset dan data merujuk kepada [ITB RDMP (Research Data Management Plan)](https://dmptool.org/plan_export/33596.pdf), yang juga telah ditulis sebagai artikel ([tautan](https://riojournal.com/article/28163/)). Repositori ini merupakan sentral repositori yang menaungi beberapa layanan yang kami gunakan, yakni:
 - Github/dasaptaerwin
 - Google Drive/dasaptaerwin3
+
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung/riset-dikti-2018-rekapitulasi-tahun-kesatu-6f27d9a99f3a))
 
 ## Laporan bulan April 2018
 ![Ilustrasi storage](http://www.maxpixel.net/static/photo/1x/Bicycle-Storage-House-Shelf-Books-Shelves-Home-1209845.jpg)
