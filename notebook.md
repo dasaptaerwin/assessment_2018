@@ -1,6 +1,6 @@
-Lab notebook
+LAB NOTEBOOK
 ===
-# Project ID
+# PROJECT ID
 - Project: "Assessment of sanitation and water supply system based on longitudinal IFLS data"
 - Funder: Kemenristekdikti 2018 (year 2). 
 - Team: 
@@ -10,8 +10,8 @@ Lab notebook
   - Susiana Nugraha (STKIP Ahmad Yani), 
   - Ahmad Darul (ITSB)
 
-# Catatan
-## Laporan bulan Maret 2018
+# CATATAN RISET
+## CATATAN BULAN MARET 2018
 ### Entry 1: 02 Maret 2018
 
 ![Ilustrasi kontaminasi](http://www.maxpixel.net/static/photo/1x/Pollution-Ocean-Degradation-Trash-Mar-Environment-1603644.jpg)
@@ -31,9 +31,10 @@ Kami telah membangun repositori yang nantinya akan terbuka untuk publik. Reposit
 - Github/dasaptaerwin
 - Google Drive/dasaptaerwin3
 
-(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung/riset-dikti-2018-rekapitulasi-tahun-kesatu-6f27d9a99f3a))
+(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
 
-## Laporan bulan April 2018
+## CATATAN BULAN APRIL 2018
+### Entry 1: 17 April 2018
 ![Ilustrasi storage](http://www.maxpixel.net/static/photo/1x/Bicycle-Storage-House-Shelf-Books-Shelves-Home-1209845.jpg)
 `Gambar dipinjam dari [Maxpixel, CC-0](https://www.maxpixel.net/static/photo/1x/Bicycle-Storage-House-Shelf-Books-Shelves-Home-1209845.jpg)` 
 
@@ -77,25 +78,49 @@ Di sini, fitur seleksi jurnal dalam DOAJ kurang rinci, ini merupakan kekurangann
 - [Georeview](http://georeview.ro/ojs/index.php/revista)
 - [RioJournal](riojournal.com): jurnal ini memang tidak diindeks oleh Scopus dan pada akhirnya tidak ada di Scimago, tapi diindeks oleh [DOAJ](doaj.org). Namun demikian, RioJournal menawarkan platform penulisan yang inovatif dan menerima berbagai jenis artikel non-konvensional.
 
+(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
 
-# Laporan bulan Mei 2018
-Kami mulai me 
+## CATATAN BULAN MEI 2018
+### Entry 1: 7 Mei 2018
+Kami mulai menetapkan kriteria responden, yaitu:
+- Pegawai ITB
+- Tinggal di bagian utara, barat, timur, dan selatan Kota Bandung
+- Memiliki tingkat pendapatan yang berbeda
+- Memiliki tingkat pendidikan yang berbeda
+- Memiliki status yang berbeda: sebagai kepala keluarga atau anggota keluarga. Ini akan mengendalikan peran mereka dalam pengelolaan air di rumah.
+- Memiliki jenis kelamin yang berbeda: laki-laki dan perempuan. Dugaan kami, hal ini juga akan mempengaruhi peran mereka dalam mengelola air di rumah, serta pemahaman terhadap kualitas air.
 
+(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
 
-# Laporan bulan Juni 2018
-...
+## CATATAN BULAN JUNI 2018
+### Entry 1: 17 Juni 2018
+Kami telah selesai menyusun daftar pertanyaan yang akan diajukan kepada responden. Berikut ini daftar pertanyaannya:
 
+(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
 
-# Laporan bulan Juli 2018
-...
+### Entry 2: 30 Juni 2018
+Kami telah selesai menyusun Formulir Etik yang menjadi dasar bagi kami untuk dapat mempublikasikan hasil interview.
 
+(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
 
-# Laporan bulan Agustus 2018
-...
+## CATATAN BULAN JULI 2018
+### Entry 1: 4 Juli 2018
+Kami telah selesai melakukan interview terhadap 15 responden terpilih. Interview dilakukan secara terpisah dalam 15 kali sesi interview. Selain itu, kami juga melakukan kunjungan ke rumah responden untuk mendokumentasikan kondisi sumber air dan sanitasinya.
 
+(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
 
-# Laporan bulan September 2018
-...
+## CATATAN BULAN AGUSTUS 2018
+### Entry 1: 6 Agustus 2018
+Kami telah selesai membuat transkrip dari seluruh interview yang kami lakukan. Semuanya telah direkam dalam format audio (mp3) dan ditranskripkan dengan format `docx` (Microsoft Word) dan format `md` (Markdown yang berbasis teks).
 
-# Laporan bulan Oktober 2018
-...
+(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
+
+### Entry 2: 10 Agustus 2018
+Kami telah selesai mereformat data agar dapat dibaca oleh [NVIVO](https://www.qsrinternational.com/nvivo/nvivo-products). NVIVO adalah piranti lunak (berbayar) yang kami gunakan untuk mengolah dan menginterpretasi data interview. Terkait dengan riset kualitatif dan penggunaan NVIVO dalam riset kualitatif, kami telah berhasil menyusun modul dan melaksanakan pelatihan singkat dua hari tentang ini ([tautan](xxx)).  
+
+### Entry 3: 27 Agustus 2018
+Kami akan melaksanakan pelatihan singkat dua hari dengan judul "Riset kualitatif dan penggunaan NVIVO" yang akan diselenggarakan di Hotel Sawunggaling ITB tanggal 27-28 Agustus 2018.
+
+## CATATAN BULAN SEPTEMBER 2018
+### Entry 1: 1 September 2018
+Kami sedang melakukan proses `coding` atau penandaan, transkrip hasil interview agar dapat dianalisis dan diinterpretasi. Proses `coding` pada dasarnya adalah tahapan yang harus dilakukan agar NVIVO dapat mengenali bagian mana dari teks transkrip yang terkait dengan suatu tema pembicaraan atau pertanyaan.
