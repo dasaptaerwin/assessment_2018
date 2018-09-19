@@ -9,6 +9,7 @@ LAB NOTEBOOK
   - Cut Novianti Rachmi (Unpad), 
   - Susiana Nugraha (STKIP Ahmad Yani), 
   - Ahmad Darul (ITSB)
+- Repositori proyek: [OSF](https://osf.io/tby9f/) dan [Github](https://github.com/dasaptaerwin/assessment_2018) 
 
 # CATATAN RISET
 ## CATATAN BULAN MARET 2018
@@ -123,6 +124,8 @@ Kami akan melaksanakan pelatihan singkat dua hari dengan judul "Riset kualitatif
 
 ## CATATAN BULAN SEPTEMBER 2018
 ### Entry 1: 1 September 2018
+![Jejaring nodes (nodes network)](https://upload.wikimedia.org/wikipedia/commons/8/8f/Nodes_network_to_visualize_bibliometric_data_of_literature_on_Cikapundung_river.png)
+Ilustrasi jejaring nodes ([tautan](https://upload.wikimedia.org/wikipedia/commons/8/8f/Nodes_network_to_visualize_bibliometric_data_of_literature_on_Cikapundung_river.png) CC-BY) yang dibangun dari data bibliometrik terkait riset ini. Artikel preprint lengkap telah diunggah di INArxiv ([tautan](https://osf.io/preprints/inarxiv/he9sa/)) 
 Kami sedang melakukan proses `coding` atau penandaan, transkrip hasil interview agar dapat dianalisis dan diinterpretasi. Proses `coding` pada dasarnya adalah tahapan yang harus dilakukan agar NVIVO dapat mengenali bagian mana dari teks transkrip yang terkait dengan suatu tema pembicaraan atau pertanyaan ([tautan](http://scalar.usc.edu/works/using-nvivo-an-unofficial-and-unauthorized-primer/coding-in-nvivo), [tautan](https://latrobe.libguides.com/NVivo/coding)). 
 
 Proses `coding` ini bersifat subyektif dan perlu pelatihan serta nalar tentang alur pemikiran riset. Untuk itu pada `coding` tahap pertama, akan menghasilkan banyak sekali `node` (titik penanda `coding`). Selanjutnya pada seluruh `node` akan dilakukan pengelompokkan, sehingga pada akhirnya akan didapatkan maksimum lima `node` besar yang terdiri dari beberapa `sub node`.
