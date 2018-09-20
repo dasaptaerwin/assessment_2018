@@ -16,7 +16,7 @@ LAB NOTEBOOK
 ### Entry 1: 02 Maret 2018
 
 ![Ilustrasi kontaminasi](http://www.maxpixel.net/static/photo/1x/Pollution-Ocean-Degradation-Trash-Mar-Environment-1603644.jpg)
-`Gambar dipinjam dari [Maxpixel, CC-0](https://www.maxpixel.net/static/photo/1x/Pollution-Ocean-Degradation-Trash-Mar-Environment-1603644.jpg)` 
+Gambar dipinjam dari [Maxpixel, CC-0](https://www.maxpixel.net/static/photo/1x/Pollution-Ocean-Degradation-Trash-Mar-Environment-1603644.jpg)
 
 Pada awal tahun kedua ini, kami mengevaluasi berbagai hal yang telah dihasilkan di tahun pertama. Di tahun pertama, kami telah menghasilkan:
 - 70 titik data kualitas air tanah di beberapa wilayah di Kota Bandung, yang umumnya terletak di sekitar bantaran S. Cikapundung.
@@ -25,19 +25,22 @@ Pada awal tahun kedua ini, kami mengevaluasi berbagai hal yang telah dihasilkan 
     - telah terjadi pencemaran domestik di kawasan perkotaan, ditandai dengan meningkatnya nilai TDS (*total dissolved solids*) dua hingga tiga kali lipat antara kawasan hulu, dengan kawasan hilir. Pencemaran domestik juga ditandai dengan meningkatnya populasi bakteri E.coli hingga dua kali lipat. Sementara itu, pemukiman terus meluas ke arah hulu, sejalan dengan perkembangan pariwisata di Kawasan Kota Bandung dan Kab. Bandung Barat.
     - yang menarik, dari pengamatan harian di dapatkan adanya peningkatan TDS dan kandungan nitrat. Keduanya menunjukkan pola yang meningkat di hari libur dan akhir minggu. Kondisi ini bahkan terlihat di bagian utara Bandung, kawasan Pondok Hijau, Katumiri dan sekitarnya. Yang mana hal ini mungkin dapat dikaitkan dengan perkembangan kawasan wisata yang bermunculan di kawasan tersebut.
 
-(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung/riset-dikti-2018-rekapitulasi-tahun-kesatu-6f27d9a99f3a))
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ### Entry 2: 08 Maret 2018
+![Ilustrasi storage](http://www.maxpixel.net/static/photo/1x/Bicycle-Storage-House-Shelf-Books-Shelves-Home-1209845.jpg)
+Gambar dipinjam dari [Maxpixel, CC-0](https://www.maxpixel.net/static/photo/1x/Bicycle-Storage-House-Shelf-Books-Shelves-Home-1209845.jpg) 
+
 Kami telah membangun repositori yang nantinya akan terbuka untuk publik. Repositori yang digunakan adalah menggunakan layanan dari [OSF (Open Science Framework)](osf.io) yang bermarkas di Virginia, AS. Layanan ini merupakan salah satu produk dari [Center for Open Science](cos.io). Pola pengelolaan riset dan data merujuk kepada [ITB RDMP (Research Data Management Plan)](https://dmptool.org/plan_export/33596.pdf), yang juga telah ditulis sebagai artikel ([tautan](https://riojournal.com/article/28163/)). Repositori ini merupakan sentral repositori yang menaungi beberapa layanan yang kami gunakan, yakni:
 - Github/dasaptaerwin
 - Google Drive/dasaptaerwin3
 
-(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ## CATATAN BULAN APRIL 2018
 ### Entry 1: 17 April 2018
-![Ilustrasi storage](http://www.maxpixel.net/static/photo/1x/Bicycle-Storage-House-Shelf-Books-Shelves-Home-1209845.jpg)
-`Gambar dipinjam dari [Maxpixel, CC-0](https://www.maxpixel.net/static/photo/1x/Bicycle-Storage-House-Shelf-Books-Shelves-Home-1209845.jpg)` 
+![Current scientific publishing process](https://upload.wikimedia.org/wikipedia/commons/6/69/The_current_academic_publishing_system_-_fncom-06-00079-g001.jpeg)
+Gambar dipinjam dari [Wikimedia Commons, CC-BY](https://commons.wikimedia.org/wiki/File:The_current_academic_publishing_system_-_fncom-06-00079-g001.jpeg)
 
 Di bulan Maret ini kami melakukan konsolidasi untuk memulai riset tahun kedua. Dalam kegiatan ini kami melakukan:
 - evaluasi [implementasi riset tahun lalu](https://osf.io/tby9f/wiki/home/),
@@ -79,10 +82,13 @@ Di sini, fitur seleksi jurnal dalam DOAJ kurang rinci, ini merupakan kekurangann
 - [Georeview](http://georeview.ro/ojs/index.php/revista)
 - [RioJournal](riojournal.com): jurnal ini memang tidak diindeks oleh Scopus dan pada akhirnya tidak ada di Scimago, tapi diindeks oleh [DOAJ](doaj.org). Namun demikian, RioJournal menawarkan platform penulisan yang inovatif dan menerima berbagai jenis artikel non-konvensional.
 
-(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ## CATATAN BULAN MEI 2018
 ### Entry 1: 7 Mei 2018
+![Ilustrasi survey](https://www.blm.gov/sites/blm.gov/files/21857337562_c1cdf0a295_b.jpg)
+Gambar dipinjam dari [US Bereau of Land Management](https://www.blm.gov/sites/blm.gov/files/21857337562_c1cdf0a295_b.jpg)
+
 Kami mulai menetapkan kriteria responden, yaitu:
 - Pegawai ITB
 - Tinggal di bagian utara, barat, timur, dan selatan Kota Bandung
@@ -91,7 +97,7 @@ Kami mulai menetapkan kriteria responden, yaitu:
 - Memiliki status yang berbeda: sebagai kepala keluarga atau anggota keluarga. Ini akan mengendalikan peran mereka dalam pengelolaan air di rumah.
 - Memiliki jenis kelamin yang berbeda: laki-laki dan perempuan. Dugaan kami, hal ini juga akan mempengaruhi peran mereka dalam mengelola air di rumah, serta pemahaman terhadap kualitas air.
 
-(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ## CATATAN BULAN JUNI 2018
 ### Entry 1: 17 Juni 2018
@@ -102,30 +108,36 @@ Kami telah selesai menyusun daftar pertanyaan yang akan diajukan kepada responde
 ### Entry 2: 30 Juni 2018
 Kami telah selesai menyusun [Formulir Etik](https://osf.io/tby9f/) yang menjadi dasar bagi kami untuk dapat mempublikasikan hasil interview. Kami sangat asing dengan pengisian formulir ini, sehingga perlu melakukan komunikasi dengan beberapa narasumber.
 
-(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ## CATATAN BULAN JULI 2018
 ### Entry 1: 4 Juli 2018
 Kami telah selesai melakukan interview terhadap 15 responden terpilih. Interview dilakukan secara terpisah dalam 15 kali sesi interview. Selain itu, kami juga melakukan kunjungan ke rumah responden untuk mendokumentasikan kondisi sumber air dan sanitasinya. Mayoritas dari responded menggunakan air tanah dengan sumur *jet pump* untuk memenuhi kebutuhan airnya. Sebagian memiliki sumber air ganda, air sumur dan air PDAM (air mengalir hanya 5 jam maksimum setiap harinya).
 
-(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ## CATATAN BULAN AGUSTUS 2018
 ### Entry 1: 6 Agustus 2018
 Kami telah selesai membuat transkrip dari seluruh interview yang kami lakukan. Semuanya telah direkam dalam format audio (mp3) dan ditranskripkan dengan format `docx` (Microsoft Word) dan format `md` (Markdown yang berbasis teks).
 
-(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ### Entry 2: 10 Agustus 2018
 Kami telah selesai mereformat data agar dapat dibaca oleh [NVIVO](https://www.qsrinternational.com/nvivo/nvivo-products). NVIVO adalah piranti lunak (berbayar) yang kami gunakan untuk mengolah dan menginterpretasi data interview. Terkait dengan riset kualitatif dan penggunaan NVIVO dalam riset kualitatif, kami telah berhasil menyusun modul dan melaksanakan pelatihan singkat dua hari tentang ini ([tautan](xxx)).  
 
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
+
 ### Entry 3: 27 Agustus 2018
 Kami akan melaksanakan pelatihan singkat dua hari dengan judul "Riset kualitatif dan penggunaan NVIVO" yang akan diselenggarakan di Hotel Sawunggaling ITB tanggal 27-28 Agustus 2018 dan di Sekolah Bisnis dan Manajemen ITB pada tanggal 12 Oktober 2018.
+
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ## CATATAN BULAN SEPTEMBER 2018
 ### Entry 1: 1 September 2018
 ![Jejaring nodes (nodes network)](https://upload.wikimedia.org/wikipedia/commons/8/8f/Nodes_network_to_visualize_bibliometric_data_of_literature_on_Cikapundung_river.png)
-Ilustrasi jejaring nodes ([tautan](https://upload.wikimedia.org/wikipedia/commons/8/8f/Nodes_network_to_visualize_bibliometric_data_of_literature_on_Cikapundung_river.png) CC-BY) yang dibangun dari data bibliometrik terkait riset ini. Artikel preprint lengkap telah diunggah di INArxiv ([tautan](https://osf.io/preprints/inarxiv/he9sa/)) 
+Ilustrasi jejaring nodes ([tautan](https://upload.wikimedia.org/wikipedia/commons/8/8f/Nodes_network_to_visualize_bibliometric_data_of_literature_on_Cikapundung_river.png) CC-0) yang dibangun dari data bibliometrik terkait riset ini. Artikel preprint lengkap telah diunggah di INArxiv ([tautan](https://osf.io/preprints/inarxiv/he9sa/)) 
 Kami sedang melakukan proses `coding` atau penandaan, transkrip hasil interview agar dapat dianalisis dan diinterpretasi. Proses `coding` pada dasarnya adalah tahapan yang harus dilakukan agar NVIVO dapat mengenali bagian mana dari teks transkrip yang terkait dengan suatu tema pembicaraan atau pertanyaan ([tautan](http://scalar.usc.edu/works/using-nvivo-an-unofficial-and-unauthorized-primer/coding-in-nvivo), [tautan](https://latrobe.libguides.com/NVivo/coding)). 
 
 Proses `coding` ini bersifat subyektif dan perlu pelatihan serta nalar tentang alur pemikiran riset. Untuk itu pada `coding` tahap pertama, akan menghasilkan banyak sekali `node` (titik penanda `coding`). Selanjutnya pada seluruh `node` akan dilakukan pengelompokkan, sehingga pada akhirnya akan didapatkan maksimum lima `node` besar yang terdiri dari beberapa `sub node`.
+
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
