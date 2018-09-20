@@ -102,6 +102,26 @@ Kami mulai menetapkan kriteria responden, yaitu:
 ## CATATAN BULAN JUNI 2018
 ### Entry 1: 17 Juni 2018
 Kami telah selesai menyusun daftar pertanyaan yang akan diajukan kepada responden. Berikut ini daftar pertanyaannya:
+1. pertanyaan umum mengenai identitas (tidak termasuk nama dan alamat)
+2. pertanyaan tentang sumber air:
+    - dari mana sumber air yang anda gunakan di rumah?
+    - apakah lancar alirannya?
+    - bagaimana cara membuatnya?
+    - berapa dana yang dihabiskan?
+    - siapa yang dihubungi saat membuatnya?
+    - apakah ada bak penampungan sementara, apakah di atas menggunakan tandon, atau bak di bawah tanah?
+    - apakah anda mengetahui definisi air bersih? apakah bergantung kepada kejernihan? atau terkait dengan hal-hal yang lebih detil dan hanya dapat diketahui dengan memeriksakannya ke laboratorium?
+3. pertanyaan tentang sistem sanitasi:
+    - bagaimana sistem sanitasi di rumah anda?
+    - apakah ada sistem septic tank atau pengendapan sebelum mengalir ke sistem selokan umum?
+    - apakah menggunakan ulang (re-use) air buangan?
+    - apakah menurut anda ada kontaminasi antara saluran air buangan dengan saluran air bersih di rumah anda?
+4. pertanyaan tentang perilaku penggunaan air:
+    - untuk apa sajakah air bersih di rumah anda?
+    - apakah anda memisahkan sumber air, misal untuk memasak dan minum menggunakan sumber air A, dan keperluan lain menggunakan sumber air B?
+    - apakah anda selalu mencuci tangan dan perangkat wadah yang digunakan untuk menampung air bersih sebelum digunakan atau dikonsumsi?
+    - apakah menurut anda kebersihan tangan dan wadah penting? 
+    - apakah anda atau anggota keluarga menderita penyakit pencernaan? apa penyebabnya menurut anda?
 
 (laporan ini telah dimuat di blog riset kami, [tautan](xxx))
 
