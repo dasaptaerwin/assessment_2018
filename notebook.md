@@ -101,6 +101,9 @@ Kami mulai menetapkan kriteria responden, yaitu:
 
 ## CATATAN BULAN JUNI 2018
 ### Entry 1: 17 Juni 2018
+![Ilustrasi question mark consent](https://upload.wikimedia.org/wikipedia/commons/0/0f/Wikipedia-logo-question.png)
+Gambar dipinjam dari [Wikimedia Commons, CC-0](https://commons.wikimedia.org/wiki/File:Wikipedia-logo-question.png)
+
 Kami telah selesai menyusun daftar pertanyaan yang akan diajukan kepada responden. Berikut ini daftar pertanyaannya:
 1. pertanyaan umum mengenai identitas (tidak termasuk nama dan alamat)
 2. pertanyaan tentang sumber air:
@@ -123,31 +126,46 @@ Kami telah selesai menyusun daftar pertanyaan yang akan diajukan kepada responde
     - apakah menurut anda kebersihan tangan dan wadah penting? 
     - apakah anda atau anggota keluarga menderita penyakit pencernaan? apa penyebabnya menurut anda?
 
-(laporan ini telah dimuat di blog riset kami, [tautan](xxx))
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ### Entry 2: 30 Juni 2018
+![Ilustrasi informed consent](https://upload.wikimedia.org/wikipedia/commons/5/5e/Framework_for_Consent_Policies.jpg)
+Gambar dipinjam dari [Wikimedia Commons, CC-0](https://commons.wikimedia.org/wiki/File:Framework_for_Consent_Policies.jpg)
+
 Kami telah selesai menyusun [Formulir Etik](https://osf.io/tby9f/) yang menjadi dasar bagi kami untuk dapat mempublikasikan hasil interview. Kami sangat asing dengan pengisian formulir ini, sehingga perlu melakukan komunikasi dengan beberapa narasumber.
 
 (laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ## CATATAN BULAN JULI 2018
 ### Entry 1: 4 Juli 2018
+![Ilustrasi interview](https://upload.wikimedia.org/wikipedia/commons/f/f7/Social-media-communication.png)
+Gambar dipinjam dari [Wikimedia Commons, CC-0](https://commons.wikimedia.org/wiki/File:Social-media-communication.png)
+
 Kami telah selesai melakukan interview terhadap 15 responden terpilih. Interview dilakukan secara terpisah dalam 15 kali sesi interview. Selain itu, kami juga melakukan kunjungan ke rumah responden untuk mendokumentasikan kondisi sumber air dan sanitasinya. Mayoritas dari responded menggunakan air tanah dengan sumur *jet pump* untuk memenuhi kebutuhan airnya. Sebagian memiliki sumber air ganda, air sumur dan air PDAM (air mengalir hanya 5 jam maksimum setiap harinya).
 
 (laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ## CATATAN BULAN AGUSTUS 2018
 ### Entry 1: 6 Agustus 2018
+![Ilustrasi transcription](https://upload.wikimedia.org/wikipedia/commons/4/4d/Transcription_both_strands.png)
+Gambar dipinjam dari [Wikimedia Commons, CC-0](https://commons.wikimedia.org/wiki/File:Transcription_both_strands.png)
+
 Kami telah selesai membuat transkrip dari seluruh interview yang kami lakukan. Semuanya telah direkam dalam format audio (mp3) dan ditranskripkan dengan format `docx` (Microsoft Word) dan format `md` (Markdown yang berbasis teks).
 
 (laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ### Entry 2: 10 Agustus 2018
+![Ilustrasi reformatting](https://upload.wikimedia.org/wikipedia/commons/b/bc/CPT-Numbers-Conversion.svg)
+Gambar dipinjam dari [Wikimedia Commons, CC-0](https://commons.wikimedia.org/wiki/File:CPT-Numbers-Conversion.svg)
+
 Kami telah selesai mereformat data agar dapat dibaca oleh [NVIVO](https://www.qsrinternational.com/nvivo/nvivo-products). NVIVO adalah piranti lunak (berbayar) yang kami gunakan untuk mengolah dan menginterpretasi data interview. Terkait dengan riset kualitatif dan penggunaan NVIVO dalam riset kualitatif, kami telah berhasil menyusun modul dan melaksanakan pelatihan singkat dua hari tentang ini ([tautan](xxx)).  
 
 (laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ### Entry 3: 27 Agustus 2018
+![Ilustrasi workshop](https://upload.wikimedia.org/wikipedia/commons/c/c2/EWM_shop_2007.jpg)
+Gambar dipinjam dari [Wikimedia Commons, CC-0](https://commons.wikimedia.org/wiki/File:EWM_shop_2007.jpg))
+
 Kami akan melaksanakan pelatihan singkat dua hari dengan judul "Riset kualitatif dan penggunaan NVIVO" yang akan diselenggarakan di Hotel Sawunggaling ITB tanggal 27-28 Agustus 2018 dan di Sekolah Bisnis dan Manajemen ITB pada tanggal 12 Oktober 2018.
 
 (laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
