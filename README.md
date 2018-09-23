@@ -4,7 +4,7 @@ This repository hosts files related to the following project "Assessment of sani
 
 The posts in this document were uploaded as log notebook to the Simlitabmas Server. **Feel free to contact us to re-use this data or if you would like to improve our project with your own use case.**
 
->>Let's communicate! We're humans not robots who only look at numbers and ranks.
+>Let's communicate! We're humans not robots who only look at numbers and ranks.
 
 ## how to use this repository
 Go to: 
