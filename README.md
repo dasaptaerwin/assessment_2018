@@ -19,4 +19,5 @@ Team:
 - [Cut Novianti Rachmi (Unpad)](https://scholar.google.co.id/citations?user=NK7TDDQAAAAJ&hl=en&oi=ao), 
 - [Keukeu Rosada (Unpad)](https://scholar.google.co.id/citations?user=INKa3pMAAAAJ&hl=en&oi=ao), 
 - [Susiana Nugraha (STKIP Ahmad Yani)](https://scholar.google.co.id/citations?user=aLGb0DUAAAAJ&hl=en&oi=ao), 
-- [Ahmad Darul (ITSB)](https://scholar.google.co.id/citations?user=pssCw68AAAAJ&hl=en&oi=ao)
+- [Ahmad Darul (ITSB)](https://scholar.google.co.id/citations?user=pssCw68AAAAJ&hl=en&oi=ao),
+- [Ichsan Alfan](https://besta-indonesia.academia.edu/IchsanAlfan)
