@@ -2,29 +2,31 @@ Assessment of sanitation and water supply system based on longitudinal IFLS data
 ===
 
 # BAB 1 PENDAHULUAN
-Aliran sungai di Bandung ditengarai telah tercemar dengan berbagai polutan, baik yang dari aktivitas domestik maupun dari aktivitas pertanian dan perindustrian ([Prihandrijanti dan  Firdayati, 2011](http://www.jwsponline.com/uploadpic/Magazine/JWS-B-11-010%20p97-p104%20New.pdf), [Marselina dan Burhanudin, 2017](http://journals.sagepub.com/doi/abs/10.1177/1178622117746660), [Astuti et al., 2016](https://www.researchgate.net/profile/Erma_Yulihastin/publication/309416036_Precipitation_Event_Analysis_Using_Image_Processing_Based_on_the_Rainfall_Detection_Radar_Observation_on_March_9_2014_During_Landslide_Event_in_West_Java/links/580f73b908aea04bbcba57f2.pdf#page=58)). Kondisi merupakan tren yang terjadi pula di beberapa kota besar (_megacity_) di Asia ([Umezawa et al., 2008](http://journals.sagepub.com/doi/abs/10.1177/1178622117746660)). Salah satu yang menjadi indikatornya adalah kandungan _nutrient_.
+Kesehatan masyarakat belum banyak dihubungkan dengan properti fisik lingkungan. Penelitian ini bertujuan untuk mencari hubungan antara data kesehatan masyarakat dengan data fisik infrastruktur dan kualitas sumber air dari IFLS dan data kualitas air tanah sebagai salah satu sumber air terbesar yang digunakan oleh masyarakat Indonesia, khususnya Bandung.
 
-_Nutrient_ atau nutrisi adalah kandungan nitrogen dan fosfor dalam berbagai bentuk dalam air. Dalam proporsi yang alamiah, mestinya keduanya sangat diperlukan oleh ekosistem, antara lain untuk kehidupan mikroorganisme dalam air, misal alga. Tapi dalam jumlah besar, atau terlalu besar, disebut sebagai kontaminasi,   akan mengganggu ekosistem akuatik (perairan), bahkan manusia. Penyebab kontaminasi ini adalah aktivitas manusia ([antropogenik](https://en.wikipedia.org/wiki/Anthropogenic)). Secara lebih luas, beberapa [aktivitas manusia yang tidak terkendali](https://en.wikipedia.org/wiki/Human_impact_on_the_environment) telah ditandai memiliki dampak (negatif) kepada lingkungan. 
+Hasilnya cukup menarik, saat data IFLS dan data penderita diare di Puskesmas, menunjukkan adanya korelasi positif antara kualitas infrastruktur sumber air dengan jumlah penderita diare. Hal ini didukung dengan peningkatan kandungan E coli di air S. CIkapundung sebesar hampir 2 kali lipat antara kawasan hulu dengan kawasan hilir. Kondisi ini berimbas kepada air tanah, karena pada daerah selatan (dari Viaduct ke Dayeuhkolot), air sungai meresap ke dalam akuifer. Dari sini, kami berpendapat bahwa akan terjadi interaksi yang sangat intensif antara air sumur warga di sekitar sungai (khususnya yang menggunakan pompa) dengan air sungai.
 
-Yang ingin kami ketahui adalah apakah ada hubungan antara kandungan nutrisi dalam air dengan pertumbuhan vegetasi di bantaran Sungai Cikapundung, apakah konsentrasi nutrisi telah mencapai level dapat memicu tidak hanya mikroorganisme (vegetasi mikro) tetapi juga pertumbuhan vegetasi makro.
+Untuk meninjau masalah ini lebih dalam, penting bagi kami untuk melakukan studi rinci kepada beberapa responden terpilih untuk mengetahui: (1) kondisi sanitasi dan sumber air di rumah responden terbatas, dan (2) pemahaman responden tentang air bersih.   
+
 
 # BAB 2 TINJAUAN PUSTAKA
 Beberapa dokumen di bawah ini merupakan referensi penting dalam riset ini:
-- [Dennison et al. (1993)](https://www.researchgate.net/profile/Robert_Orth/publication/235938503_Assessing_Water_Quality_with_Submersed_Aquatic_Vegetation/links/02e7e52e053f599fb0000000/Assessing-Water-Quality-with-Submersed-Aquatic-Vegetation.pdf)
-- [Clarke (2002)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1034.5670&rep=rep1&type=pdf)
-- [Peterjohn and Correll, 1984](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.2307/1939127)
-- [Reddy et al., 1989](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.1989.34.6.1004)
-- [Correll, 1998](https://www.sciencetheearth.com/uploads/2/4/6/5/24658156/1998_correll_the_role_of_phosphorus_in_the_eutrophication_of_receiving_waters-_a_review.pdf)
-- [Baldwin and Mitchell, 2000](https://onlinelibrary.wiley.com/doi/abs/10.1002/1099-1646(200009/10)16:5%3C457::AID-RRR597%3E3.0.CO;2-B)
+- [Orgill et al., 2002](https://sites.globalhealth.duke.edu/jeulandresearch/wp-content/uploads/sites/5/2015/07/JWH-D-12-00212-working-version_clean.pdf)
+- [Voas, 2005](https://sites.globalhealth.duke.edu/jeulandresearch/wp-content/uploads/sites/5/2015/07/JWH-D-12-00212-working-version_clean.pdf)
+- [Noga and Wolbring, 2013](https://www.mdpi.com/2073-4441/5/4/1865/)
+- [Robinson et al., 2005](https://www.environmental-expert.com/Files/5302/articles/9786/Assessmentofpublicperceptionregarding.pdf)
+- [Po et al., 2003](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.197.423&rep=rep1&type=pdf)
+- [Banda et al., 2007](http://www.cmcwtrl.in/publications/23-2007-Transactions-of-the-Royal-Society-of-Tropical-Medicine-and-Hygiene.pdf)
 
 Riset ini sangat terkait dengan dua riset tahun 2017 sebagai berikut:
-- [Aditya dan Irawan, 2017](https://figshare.com/articles/Variasi_kualitas_air_sungai_di_Kawasan_Cimahi_dan_Bandung_Utara/5902009)
-- [Rosada et al., 2017](https://figshare.com/articles/Ecoregion_Cikapundung_Watershed_Based_on_The_Presence_of_Escherichia_coli_--_Poster_Ecodevelopment_2017/5479735)
-- [Rahmadia et al., 2017](https://figshare.com/articles/Cikapundung_watershed_land_cover_characterization_using_SPOT-6_imagery/5425729)
+- [Irawan et al., 2017](https://osf.io/tby9f/),
+- [Aditya dan Irawan, 2017](https://figshare.com/articles/Variasi_kualitas_air_sungai_di_Kawasan_Cimahi_dan_Bandung_Utara/5902009),
+- [Rosada et al., 2017](https://figshare.com/articles/Ecoregion_Cikapundung_Watershed_Based_on_The_Presence_of_Escherichia_coli_--_Poster_Ecodevelopment_2017/5479735),
+- [Rahmadia et al., 2017](https://figshare.com/articles/Cikapundung_watershed_land_cover_characterization_using_SPOT-6_imagery/5425729),
 - [Devi et al., 2017](https://figshare.com/articles/Vegetation_of_riparian_areas_along_Cikapundung_River/5425714)
 
 # BAB 3 TUJUAN DAN MANFAAT PENELITIAN 
-Tujuan dari riset ini adalah untuk mengidentifikasi apakah ada hubungan antara peningkatan kadar nutrisi dalam air sungai dan air tanah di kawasan riparian atau bantaran sungai kepada vegetasi.  
+Tujuan dari riset ini adalah untuk mengidentifikasi (1) kondisi sanitasi dan sumber air di rumah responden terbatas, dan (2) pemahaman responden tentang air bersih.   
 
 # BAB 4 METODE PENELITIAN
 Metode riset ini adalah sebagai berikut:
@@ -35,8 +37,8 @@ Metode riset ini adalah sebagai berikut:
 - pengolahan data transkrip interview dengan piranti lunak NVIVO dan RQDA
 - identifikasi zona vegetasi (revisitasi hasil tahun 2017)
 - penarikan kesimpulan terkait:
-    - .
-
+    - kondisi sanitasi dan sumber air di rumah responden
+    - pemahaman responden terhadap air bersih
 
 # BAB 5 HASIL DAN LUARAN YANG DICAPAI
 Hasil sementara yang didapatkan adalah sebagai berikut:
