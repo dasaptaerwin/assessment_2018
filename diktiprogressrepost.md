@@ -1,4 +1,4 @@
-Nutrient dynamics at the interface between surface water and groundwater with aquatic vegetation in Cikapundung river
+Assessment of sanitation and water supply system based on longitudinal IFLS data (year 2)
 ===
 
 # BAB 1 PENDAHULUAN
@@ -28,31 +28,36 @@ Tujuan dari riset ini adalah untuk mengidentifikasi apakah ada hubungan antara p
 
 # BAB 4 METODE PENELITIAN
 Metode riset ini adalah sebagai berikut:
+- interview terhadap 20 responden
+- visitasi rumah 20 responden
+- pengujian kualitas air dari rumah 20 responden
+- transkripsi hasil interview 
+- pengolahan data transkrip interview dengan piranti lunak NVIVO dan RQDA
 - identifikasi zona vegetasi (revisitasi hasil tahun 2017)
-- pengamatan bantaran sungai secara umum
-- pengukuran muka air tanah dan muka air sungai, serta rekonstruksi aliran air tanah 
-- pengambilan sampel air sungai dan air tanah
-- pengukuran nilai pH, TDS/Salinitas menggunakan strip pengukur
-- analisis spasial hasil pengukuran nutrisi (nitrat dan fosfat) dalam air sungai dan air tanah.
+- penarikan kesimpulan terkait:
+    - .
 
 
 # BAB 5 HASIL DAN LUARAN YANG DICAPAI
 Hasil sementara yang didapatkan adalah sebagai berikut:
-- 20 sampel masing-masing untuk air tanah dan sungai
-- pengukuran strip kualitas air di lima lokasi, oleh lima orang berbeda, pada waktu yang sama, tiga kali per minggu, selama bulan April s/d Agustus 2018. 
+- 20 sampel masing-masing untuk air dari rumah responden
+- Hasil uji 20 sampel dari rumah responden
+- Hasil interview dalam format suara (mp3)
 
 Hasil-hasil tersebut telah disarikan dan ditulis sebagai laman daring di:
-- Github repository: [Proyek Pub Analytics](https://github.com/dasaptaerwin/nutrient2018)
+- Github repository: [Proyek Pub Analytics](https://github.com/dasaptaerwin/assessment_2018)
 - Medium blog: [Blog KK Geologi Terapan](https://medium.com/eco-hydrology-of-cikapundung)
 
 
 # BAB 6 RENCANA TAHAP BERIKUTNYA
 Pada tahap berikutnya, kami akan melakukan:
-- overlay peta konsentrasi nutrisi dengan peta vegetasi
-- overlay peta konsentrasi nutrisi dengan peta tata guna lahan
+- pemindahan hasil interview menjadi transkrip teks yang siap diolah
+- pemetaan hasil interview menggunakan piranti lunak NVIVO (versi percobaan) dan RQDA.
+- analisis lebih lanjut hasil visualisasi NVIVO dan RQDA.
+
 
 # BAB 7 KESIMPULAN DAN SARAN
-Penelitian ini menghasilkan indikasi awal bahwa kandungan nutrisi belum pada level yang dapat memicu pertumbuhan vegetasi akuatik pada lingkungan perairan S. Cikapundung. Kesimpulan sementara ini akan kami perbarui sejalan dengan analisis.
+Penelitian ini menghasilkan indikasi awal bahwa pemahaman responden tentang air bersih masih beragam. Variasi pemahaman ini tidak dipengaruhi oleh tingkat pendidikan atau pendapatan. Dengan kata lain, pada level pendidikan dan pendapatan apapun, mayoritas responden mengasosiasikan air jernih sebagai air bersih. 
 
 # DAFTAR PUSTAKA
 Referensi telah disajikan sebagai tautan dalam teks.
