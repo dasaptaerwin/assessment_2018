@@ -30,7 +30,19 @@ We asked the participants to answer the following questions:
 
 ## Overall results
 
+The following diagram shows the general results of the interviews conducted to 15 participants (Fig 1). 
 
+![diagram hasil umum](/Users/dasaptaerwinirawan/Documents/2018/Researches/assessment_2018/interview_report.png)
+
+Figure 1 Diagram showing the general results of the interviews
+
+We'd like to convey the following results:
+
+- most of the participants (11/15) have two water sources: groundwater and PDAM, however most of them (8/11) use PDAM as the main source of water, while groundwater from dug wells are used as complementary water source. 
+- 4/15 participants have dual source of water, groundwater and PDAM. Half of them (2/4) only use PDAM for drinking and cooking, and groundwater for bathing and washing and other usage; and the other half use groundwater for drinking and cooking, while PDAM for bathing and washing. This is simply due to the high content of kaporit in the PDAM water, based on  `color-odour-taste` test.
+- Only 4/15 participants have only groundwater from dug well as their water source.  They use it because they are still satisfied with the quality, although the PDAM is actively at service in their area. But they do complaint about the quality of service of PDAM, which only active several hours per day. 
+- All of the participants have tested the water (both for groundwater and PDAM) using `color-odour-taste` test before deciding to use it as their main water source. All of them use the techniques based on their family education, not from formal education, eg: health education from school. 
+- All of participants using groundwater and PDAM boil the water prior to later usage, eg: for drinking and cooking.
 
 ## Report from P1
 
